@@ -53,6 +53,7 @@ button {
     width: 100%;
     font-weight: bold;
     margin-top: 1rem;
+    font-size: larger;
 }
 
 button:hover {
